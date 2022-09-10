@@ -1,0 +1,6 @@
+what is API : API (Aplication Programming Interface) adalah antar muka pemogramman yang didalamnya terdapat fungsi atau code yang dapat dipanggil oleh sebuah aplikasi
+web service : adalah sebuah sistem yang dibuat untuk membantu interaksi antara dua aplikasi atau lebih
+what is rest API : gaya arsitektural (gaya ngoding) yang didalamnya berisi aturan untuk membuat web service  
+HTTP : hypertext transfer protocol adalah sebuah protokol yang digunakan untuk mengirim text berupa alamat sebuah situs
+stateless : sebuah kondisi dimana sistem tidak boleh menyimpan session
+URL : uniform resource locator adalah sebuah alamat sumber daya yang ada di internet
