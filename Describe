@@ -4,3 +4,11 @@ what is rest API : gaya arsitektural (gaya ngoding) yang didalamnya berisi atura
 HTTP : hypertext transfer protocol adalah sebuah protokol yang digunakan untuk mengirim text berupa alamat sebuah situs
 stateless : sebuah kondisi dimana sistem tidak boleh menyimpan session
 URL : uniform resource locator adalah sebuah alamat sumber daya yang ada di internet
+JSON : format pertukaran data yang didalamnya berisi key dan value
+Object : type data yang berisi kumpulan property yang terdiri dari pasangan antara key dan value
+JSON type data : BASONN (Boolean,Array,String,Object,Number,Null)
+json_encode() : digunakan untuk mengubah object/array menjadi JSON (php)
+json_decode() : digunakan untuk mengubah JSON menjadi object/array(php)
+file_get_contents() : digunakan untuk mengambil file JSON
+JSON_stringify() : digunakan untuk mengubah object/array menjadi JSON (javascript)
+JSON_parse() : digunakan untuk mengubah JSON menjadi object/array (javascript)
